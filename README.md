@@ -28,3 +28,7 @@ k.api.load_key('./config/keys.txt')
 ```
 ## Available methods
 You can get availaible methods by either `help(KrackenAPI)` or tab-completing `k.<tab>`.
+
+# Planning/Goals
+1. Replace base functions and calls for the Binance bot with equal functions and outputs
+2. Maintain as much work already performed exchange-agnostic. 
