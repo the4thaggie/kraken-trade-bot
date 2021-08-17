@@ -1,5 +1,7 @@
 # kraken-trade-bot
 
+PLEASE NOTE THAT THIS IS A WORK IN PROGRESS
+
 This is an adaptation of [binance-trade-bot](https://github.com/edeng23/binance-trade-bot). It also leverages the [pykrakenapi](https://github.com/dominiktraxl/pykrakenapi)
 
 ## Create the keys.txt file
