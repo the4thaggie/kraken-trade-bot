@@ -21,4 +21,5 @@ k = KrakenAPI(api)
 k.api.load_key('./config/keys.txt')
 ```
 
-## 
+## Available methods
+You can get availaible methods by either `help(KrackenAPI)` or tab-completing `k.<tab>`.
